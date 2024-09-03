@@ -35,7 +35,7 @@ Pipelined the task to be performed by an AI employee for data cleaning and proce
 
 4. Create a Report Generation Module
    
-  The report generation module is responsible for compiling the analysis results into a comprehensive report.
-  This module not only presents the raw results but also includes visualizations
-  Visualizations: Generates charts and graphs such as bar charts, scatter plots.
-  These visual aids help in quickly grasping trends and patterns in the data.
+	  The report generation module is responsible for compiling the analysis results into a comprehensive report.
+	  This module not only presents the raw results but also includes visualizations
+	  Visualizations: Generates charts and graphs such as bar charts, scatter plots.
+	  These visual aids help in quickly grasping trends and patterns in the data.
